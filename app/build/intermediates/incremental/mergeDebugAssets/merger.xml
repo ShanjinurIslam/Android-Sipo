@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/spondon/Documents/PersonalProjects/sipo/app/src/main/assets"><file name="fonts/font.ttf" path="/Users/spondon/Documents/PersonalProjects/sipo/app/src/main/assets/fonts/font.ttf"/></source><source path="/Users/spondon/Documents/PersonalProjects/sipo/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/spondon/Documents/PersonalProjects/sipo/app/src/debug/assets"/></dataSet></merger>
